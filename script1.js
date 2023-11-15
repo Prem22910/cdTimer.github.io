@@ -1,5 +1,5 @@
 
-var target = new Date("1 January 2023 00:00:00").getTime();
+var target = new Date("1 January 2024 00:00:00").getTime();
 
 var x = setInterval(function() {
 
